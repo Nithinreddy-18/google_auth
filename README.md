@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This is regarding that sign in with Gmail, without using Devise gem.  
